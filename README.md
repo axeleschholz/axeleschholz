@@ -1,7 +1,5 @@
 ### Hello hello! 👋
-I'm Axel, an aspiring data scientist with a checkered past as an app developer. A python devotee and machine learning enthusiast, I'm always happy to chat about tech, or music, or whatever else interests you. Don't be shy, feel free to say hi!
-Some more about me:
-- 🌱 I'm currently working on a solution to trust in online communities.
-- 💬 Ask me about new developments in technology, finance, or global politics!
-- 📫 How to reach me: axel.eschholz@gmail.com is the best way to get in touch. You can also find me on [LinkedIn](https://www.linkedin.com/in/axel-eschholz-b6278a1a8/).
+I'm Axel, tech founder, professional tinkerer, part-time musician. Big into infosec, and an admirer of cool large-scale data solutions. I'm always happy to meet other builders, so drop me a line. Currently working on a solution to trust and identity online, [take a look](https://verifyyou.com).
+
+Find me on [LinkedIn](https://www.linkedin.com/in/axel-eschholz-b6278a1a8/).
 
