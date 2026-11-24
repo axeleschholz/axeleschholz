@@ -1,6 +1,6 @@
 ### Axel Eschholz
 I build things.
 
-[[axeleschholz.github.io]]
+[My Work](axeleschholz.github.io)
 
-[ashwoodstudio.org](Ashwood Studio)
+[Ashwood Studio](ashwoodstudio.org)
